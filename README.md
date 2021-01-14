@@ -1,7 +1,8 @@
 notengt
 ===============
  [官方地址:http//note.ningguoteng.com](http://note.ningguoteng.com)
-
+ 
+[官方APP下载地址:链接:https://pan.baidu.com/s/1o5gdyPm7Jvi13EaNsN96YA  密码:z0cx](https://pan.baidu.com/s/1o5gdyPm7Jvi13EaNsN96YA)
 
 > 运行环境要求PHP7.2+。
 基于ThinkPHPV6.0+layui开发的云笔记项目
