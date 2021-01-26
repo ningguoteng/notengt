@@ -1,6 +1,6 @@
 notengt
 ===============
- [官方地址:http//note.ningguoteng.com](http://note.ningguoteng.com)
+ [官方地址:http//note.ningguoteng.com:82](http://note.ningguoteng.com:82)
  
 [官方APP下载地址:https://pan.baidu.com/s/1o5gdyPm7Jvi13EaNsN96YA  密码:z0cx](https://pan.baidu.com/s/1o5gdyPm7Jvi13EaNsN96YA)
 
